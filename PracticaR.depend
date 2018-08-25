@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1535207257 source:/home/alumno/Documentos/PracticaR/main.c
+	<stdio.h>
+	<stdlib.h>
+
